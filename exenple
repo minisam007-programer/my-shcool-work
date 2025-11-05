@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr">
+  <style>
+    body {
+      text-align: center;
+    }
+  </style> 
+<head>
+  <title>Exemple</title>
+</head>
+<body>
+  <h1>Mes voitures préféré</h1>
+  <h2>1- Pagani Utopia</h2>
+  <p>La Pagani Utopia est une hypercar italienne de 864 ch, à moteur V12 biturbo AMG, alliant artisanat, design futuriste, luxe extrême et performance analogique pure.</p>
+  <img src="pagani utopia.jpg" alt="Ma superbe photo" width="400">
+  <h2>-2 Toyota Supra</h2>
+  <p>La Toyota Supra est une voiture de sport japonaise légendaire, rapide, stylée et puissante — surtout la MK4, rendue mythique par Fast & Furious.</p>
+  <img src="toyota supra mk4.jpg" alt="Ma superbe photo" width="400">
+  
+</body>
+</html>
